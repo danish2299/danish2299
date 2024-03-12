@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danish Buksh
-- 👀 I’m interested in Devops And Cloud
-- 🌱 I’m currently learning Devops , MLops
+- 👀 I’m interested in DevOps And Cloud
+- 🌱 I’m currently learning DevOps , MLOps
 - 📫 Diving Deep into World of Cloud
 - 😄 Deep interest in Web Dev
   
