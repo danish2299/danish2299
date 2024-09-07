@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish2299&label=Profile%20views&color=0e75b6&style=flat" alt="danish2299" /> </p>
 
-- 🌱 I’m currently learning **MlOps**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📝 I regularly write articles on [https://danish2299.hashnode.dev/](https://danish2299.hashnode.dev/)
 
