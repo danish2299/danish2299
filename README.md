@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Buksh</h1>
-<h3 align="center">Cloud & DevOps Developer | Automation, Scalability, and DevOps in the Cloud</h3>
+<h3 align="center">Cloud & DevOps Developer | Automation, Scalability, and DevOps in the Cloud , 2X AWS Certfied , 1x Google Certified</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish2299&label=Profile%20views&color=0e75b6&style=flat" alt="danish2299" /> </p>
 
